@@ -1,0 +1,16 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.bg-custom{
+    background-color: #E2DEDB;
+
+
+}
+
+#footer {
+   
+    background-color: #E2DEDB;
+   
+}
